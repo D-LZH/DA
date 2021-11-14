@@ -10,3 +10,8 @@
   * [章结](1-basic-concept-ji-ben-gai-nian/zhang-jie.md)
 * [2 语言：含义和定义](2-yu-yan-han-yi-he-ding-yi/README.md)
   * [2.1 含义的种类](2-yu-yan-han-yi-he-ding-yi/2.1-han-yi-de-zhong-lei.md)
+  * [2.2 用语的内涵和外延](2-yu-yan-han-yi-he-ding-yi/2.2-yong-yu-de-nei-han-he-wai-yan.md)
+  * [2.3 定义和它的用意](2-yu-yan-han-yi-he-ding-yi/2.3-ding-yi-he-ta-de-yong-yi.md)
+* [Page 2](page-2.md)
+* [Page 1](page-1.md)
+* [IDEA](idea.md)
