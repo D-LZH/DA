@@ -12,6 +12,7 @@
   * [2.1 含义的种类](2-yu-yan-han-yi-he-ding-yi/2.1-han-yi-de-zhong-lei.md)
   * [2.2 用语的内涵和外延](2-yu-yan-han-yi-he-ding-yi/2.2-yong-yu-de-nei-han-he-wai-yan.md)
   * [2.3 定义和它的用意](2-yu-yan-han-yi-he-ding-yi/2.3-ding-yi-he-ta-de-yong-yi.md)
+  * [2.4 定义技巧](2-yu-yan-han-yi-he-ding-yi/2.4-ding-yi-ji-qiao.md)
 * [Page 2](page-2.md)
 * [Page 1](page-1.md)
 * [IDEA](idea.md)
