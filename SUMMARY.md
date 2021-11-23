@@ -14,6 +14,7 @@
   * [2.3 定义和它的用意](2-yu-yan-han-yi-he-ding-yi/2.3-ding-yi-he-ta-de-yong-yi.md)
   * [2.4 定义技巧](2-yu-yan-han-yi-he-ding-yi/2.4-ding-yi-ji-qiao.md)
   * [2.5 词汇定义的准则](2-yu-yan-han-yi-he-ding-yi/2.5-ci-hui-ding-yi-de-zhun-ze.md)
+  * [章结](2-yu-yan-han-yi-he-ding-yi/zhang-jie.md)
 * [Page 2](page-2.md)
 * [Page 1](page-1.md)
 * [IDEA](idea.md)
