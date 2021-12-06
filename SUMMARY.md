@@ -18,5 +18,6 @@
 * [3 非形式谬误](3-fei-xing-shi-miu-wu/README.md)
   * [3.1 一般谬误](3-fei-xing-shi-miu-wu/3.1-yi-ban-miu-wu.md)
   * [3.2 相关性谬误](3-fei-xing-shi-miu-wu/3.2-xiang-guan-xing-miu-wu.md)
+  * [3.3 弱归纳谬误](3-fei-xing-shi-miu-wu/3.3-ruo-gui-na-miu-wu.md)
 * [Page 1](page-1.md)
 * [IDEA](idea.md)
