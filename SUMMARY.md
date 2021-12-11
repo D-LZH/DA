@@ -20,5 +20,6 @@
   * [3.2 相关性谬误](3-fei-xing-shi-miu-wu/3.2-xiang-guan-xing-miu-wu.md)
   * [3.3 弱归纳谬误](3-fei-xing-shi-miu-wu/3.3-ruo-gui-na-miu-wu.md)
   * [3.4 假设，歧义，非法转移谬误](3-fei-xing-shi-miu-wu/3.4-jia-she-qi-yi-fei-fa-zhuan-yi-miu-wu.md)
+  * [3.5](3-fei-xing-shi-miu-wu/3.5.md)
 * [Page 1](page-1.md)
 * [IDEA](idea.md)
