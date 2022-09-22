@@ -25,7 +25,7 @@
 * [4 直言命题](4-categorical-propositions/README.md)
   * [4.1 直言命题的组成](4-categorical-propositions/4.1-the-components-of-categorical-propositions.md)
   * [4.2 质量，数量和分布](4-zhi-yan-ming-ti/4.2-zhi-liang-shu-liang-he-fen-bu.md)
-  * [4.3 Venn Diagrams and the Modern Square of Opposition](4-categorical-propositions/4.3-venn-diagrams-and-the-modern-square-of-opposition.md)
+  * [4.3 韦恩图和四个命题的对立关系](4-zhi-yan-ming-ti/4.3-wei-en-tu-he-si-ge-ming-ti-de-dui-li-guan-xi.md)
   * [4.4 Conversion, Obversion, and Contraposition](4-categorical-propositions/4.4-conversion-obversion-and-contraposition.md)
   * [4.5 The Traditional Square of Opposition](4-categorical-propositions/4.5-the-traditional-square-of-opposition.md)
   * [4.6 Venn Diagrams and the Traditional Standpoint](4-categorical-propositions/4.6-venn-diagrams-and-the-traditional-standpoint.md)
