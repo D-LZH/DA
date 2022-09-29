@@ -28,7 +28,7 @@
   * [4.3 韦恩图和四个命题的对立关系](4-categorical-propositions/4.3-venn-diagrams-and-the-modern-square-of-opposition.md)
   * [4.4 换位，换质和换位质](4-zhi-yan-ming-ti/4.4-huan-wei-huan-zhi-he-huan-wei-zhi.md)
   * [4.5 传统的4命题对立关系](4-zhi-yan-ming-ti/4.5-chuan-tong-de-4-ming-ti-dui-li-guan-xi.md)
-  * [4.6 Venn Diagrams and the Traditional Standpoint](4-categorical-propositions/4.6-venn-diagrams-and-the-traditional-standpoint.md)
+  * [4.6 韦恩图和传统论点](4-zhi-yan-ming-ti/4.6-wei-en-tu-he-chuan-tong-lun-dian.md)
   * [4.7 Translating Ordinary Language Statements into Categorical Form](4-categorical-propositions/4.7-translating-ordinary-language-statements-into-categorical-form.md)
 * [Page 1](page-1.md)
 * [IDEA](idea.md)
