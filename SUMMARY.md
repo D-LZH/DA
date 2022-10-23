@@ -29,6 +29,6 @@
   * [4.4 换位，换质和换位质](4-zhi-yan-ming-ti/4.4-huan-wei-huan-zhi-he-huan-wei-zhi.md)
   * [4.5 传统的4命题对立关系](4-zhi-yan-ming-ti/4.5-chuan-tong-de-4-ming-ti-dui-li-guan-xi.md)
   * [4.6 韦恩图和传统立场](4-zhi-yan-ming-ti/4.6-wei-en-tu-he-chuan-tong-li-chang.md)
-  * [4.7](4-zhi-yan-ming-ti/4.7.md)
+  * [4.7 将日常语言的陈述转化为直言形式](4-zhi-yan-ming-ti/4.7-jiang-ri-chang-yu-yan-de-chen-shu-zhuan-hua-wei-zhi-yan-xing-shi.md)
 * [Page 1](page-1.md)
 * [IDEA](idea.md)
