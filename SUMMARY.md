@@ -34,7 +34,7 @@
   * [5.1 标准形式，mood和figure](5-zhi-yan-san-duan-lun/5.1-biao-zhun-xing-shi-mood-he-figure.md)
   * [5.2 韦恩图](5-zhi-yan-san-duan-lun/5.2-wei-en-tu.md)
   * [5.3 规则和谬误](5-zhi-yan-san-duan-lun/5.3-gui-ze-he-miu-wu.md)
-  * [Page 3](5-zhi-yan-san-duan-lun/page-3.md)
+  * [减少词项的数量](5-zhi-yan-san-duan-lun/jian-shao-ci-xiang-de-shu-liang.md)
   * [Page 7](5-zhi-yan-san-duan-lun/page-7.md)
   * [Page 2](5-zhi-yan-san-duan-lun/page-2.md)
   * [Page 1](5-zhi-yan-san-duan-lun/page-1.md)
